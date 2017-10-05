@@ -1,0 +1,13 @@
+{
+  "name": "xiisabutt-irc-bot",
+  "version": "0.0.1",
+  "description": "xi is a butt",
+  "main": "index.js",
+  "repository": "https://github.com/zGrav/xiisabutt-irc-bot",
+  "author": "David Silva <zgrav@null.net>",
+  "license": "BSD 2-clause",
+  "private": false,
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
+}
